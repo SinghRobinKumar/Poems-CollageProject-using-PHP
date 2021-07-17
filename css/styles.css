@@ -1,0 +1,96 @@
+html,
+body {
+  height: 100%;
+  font-size: 1rem;
+  font-family: "Roboto Slab", serif;
+}
+.navbar img{
+    width: 55px;
+    height: 35px;
+}
+.page-header img{
+    width: 350px;
+    height: 350px;
+    border-radius: 10%;
+}
+.gradient {
+  background: rgb(0, 97, 242);
+  background: linear-gradient(
+    135deg,
+    rgba(0, 97, 242, 1) 0%,
+    rgba(105, 0, 199, 1) 100%
+  );
+}
+.page-header {
+  margin-top: 4rem;
+  font-size: 1.25rem;
+  color: white;
+}
+.feature{
+    color: #fff;
+}
+.feature ul{
+    padding-left: 2rem;
+    /* list-style: none; */
+}
+.icon{
+    color: #fff;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    border-radius: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.galary{
+    background-color: whitesmoke;
+
+}
+.galary img{
+border-radius: 5%;
+height: 400px;
+margin-bottom: 5px;
+margin-top: 5px;
+}
+.services{
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    
+}
+.services p{
+   color: #fff;
+}
+.services img{
+    width: 400px;
+    height: 400px;
+    border-radius: 20%;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.contact img{
+    width: 400px;
+    height: 400px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.footer{
+    color: #fff;
+    font-size: 1rem;
+    margin: 0;
+    padding: 1rem;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}
+/* .feature ul li{
+    padding-left: 2rem;
+    background-image: url(../images/tick.png);
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+    
+} */
+

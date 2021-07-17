@@ -1,0 +1,36 @@
+.section-background {
+    background-image: url('../images/poem/poem3.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    z-index: 1000;
+    height: 100vh;
+    margin: 0px;
+
+}
+
+.section-background div {
+    margin-top: 10px;
+    padding: 30px;
+}
+
+.section-background h1,
+p {
+    color: white !important;
+}
+
+.footersection li a {
+    font-size: 1.3rem;
+}
+
+.footersection {
+    padding: 0px;
+}
+
+.footersection div div div div {
+    padding-top: 40px;
+}
+
+.footer-bottom ul li {
+    float: right;
+}
